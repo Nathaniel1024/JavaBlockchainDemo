@@ -1,2 +1,2 @@
 # JavaBlockchainDemo
-A basic blockchain prototype written in Java, featuring a customizable difficulty level and chain synchronization functionality.
+A simple Java-based blockchain implementation demonstrating basic principles like proof-of-work, block hashing, and chain validation. This project serves as a basic blockchain prototype, featuring a customizable difficulty level and chain synchronization functionality. It's an educational tool that illustrates how blockchain technology works, including block creation, mining, and ensuring chain integrity, making it a great resource for understanding the fundamentals of blockchain concepts.
